@@ -1,5 +1,8 @@
 _repo: Regenyirok-b-Tanulmanyok_72409
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Voinovich, Géza
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56673
     wikipedia: https://hu.wikipedia.org/wiki/Voinovich_G%C3%A9za
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72409#Regenyirok-b-Tanulmanyok
 gutenberg_issued: '2023-12-14'
 gutenberg_type: Text
 identifiers:
